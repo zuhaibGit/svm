@@ -18,4 +18,3 @@ A plot of the magnitude of the coefficient vector every 30 steps, for each value
 Your estimate of the best value of the regularization constant, together with a brief description of why you believe that is a good value.
 Answer the question: What was your choice for the learning rate and why did you choose it?
 Once you have trained your final classifier, score the provided test set, recording the results in a file with the same format as submission.txt.  You will be able to submit this result to gradescope repeatedly for scoring.
-# svm
