@@ -1,8 +1,9 @@
-#svm
+# svm
+
 This is based on an assignment from the course AML 498, offered by the University of Illinois.
 https://courses.engr.illinois.edu/cs498aml/sp2019/homeworks/homework2.html
 
-#Problems
+# Problems
 
 The UC Irvine machine learning data repository hosts a collection of data on adult income, donated by Ronny Kohavi and Barry Becker. You can find this data at https://archive.ics.uci.edu/ml/datasets/Adult For each record, there is a set of continuous attributes, and a class "less than 50K" or "greater than 50K". We have pre-split the data training with 43957 examples with known class labels, and testing data with 4885 examples without class labels. Use this data, not the original, for this assignment.
 
